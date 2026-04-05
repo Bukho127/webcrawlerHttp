@@ -1,0 +1,24 @@
+{
+  "name": "webcrawlerhttp",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Bukho127/webcrawlerHttp#readme",
+  "bugs": {
+    "url": "https://github.com/Bukho127/webcrawlerHttp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bukho127/webcrawlerHttp.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
